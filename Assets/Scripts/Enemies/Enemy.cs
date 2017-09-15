@@ -7,6 +7,7 @@ public class Enemy : MonoBehaviour
     [Header("Stats")]
     public float moveSpeed = 5f;
     public float attackDelay = 1f;
+    public int health = 1;
 
     [Header("References")]
     public Player player;
