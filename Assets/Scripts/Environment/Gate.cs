@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BackgroundScroll : MonoBehaviour {
+public class Gate : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
